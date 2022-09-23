@@ -1,4 +1,4 @@
-#  Project : "RODE Clone" using Tailwind CSS
+#  Project : "RØDE Clone" using Tailwind CSS 
 
 - Click here for live demo of the Project on [ NETLIFY ](https://parikshit-rode-clone.netlify.app/ "Parikshit RODE Clone")
 
